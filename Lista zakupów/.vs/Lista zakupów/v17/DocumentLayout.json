@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC86208F-23E8-4EA2-A81E-5C8A909A3F67}|Domain\\Domain.csproj|c:\\users\\marek\\desktop\\folder marka\\programowanie\\csharp\\lista zakup\u00F3w\\lista zakup\u00F3w\\domain\\interfaces\\ishoppingitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC86208F-23E8-4EA2-A81E-5C8A909A3F67}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ishoppingitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC86208F-23E8-4EA2-A81E-5C8A909A3F67}|Domain\\Domain.csproj|c:\\users\\marek\\desktop\\folder marka\\programowanie\\csharp\\lista zakup\u00F3w\\lista zakup\u00F3w\\domain\\entities\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC86208F-23E8-4EA2-A81E-5C8A909A3F67}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "IShoppingItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Domain\\Interfaces\\IShoppingItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IShoppingItemRepository.cs",
+              "ToolTip": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Domain\\Interfaces\\IShoppingItemRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IShoppingItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:50:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Domain\\Exceptions\\DomainException.cs",
@@ -38,25 +55,24 @@
               "RelativeToolTip": "Domain\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T20:18:17.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T20:18:17.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShoppingItem.cs",
               "DocumentMoniker": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Domain\\Entities\\ShoppingItem.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ShoppingItem.cs",
               "ToolTip": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Domain\\Entities\\ShoppingItem.cs",
               "RelativeToolTip": "Domain\\Entities\\ShoppingItem.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T21:33:15.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\marek\\Desktop\\Folder Marka\\Programowanie\\csharp\\lista zakup\u00F3w\\Lista zakup\u00F3w\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Application\\Class1.cs",
